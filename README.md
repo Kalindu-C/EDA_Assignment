@@ -5,7 +5,7 @@
 
 #### Objective of this assignment
 
-1. Dataset Selection – Choose a suitable multivariate dataset (from R/Python built-in datasets, Kaggle, or UCI).
+1. Dataset Selection – Choose a suitable multivariate dataset (from R/Python built-in datasets, Kaggle, or UCI).    --> **DONE**
 
 2. Data Preparation – Perform data cleaning and preprocessing (handle missing values, encode categorical variables, normalize if needed).
 
